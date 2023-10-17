@@ -1,0 +1,14 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri" : "mysql://root:@localhost/codeblogs",
+    "prod_uri" : "mysql://root:@localhost/codeblogs",
+    "fb_url" : "https://facebook.com/codeblogs",
+    "tw_url" : "https://twitter.com/codeblogs",
+    "gh_url" : "https://github.com/codeblogs",
+    "no_of_posts":2,
+    "admin_image":"bootstrap-logo.svg",
+    "admin_user":"juggaljain@gmail.com",
+    "admin_pass":"jugal_jain"
+  }
+}
